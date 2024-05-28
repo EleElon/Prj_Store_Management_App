@@ -2,7 +2,7 @@
 
 Project C# .NET with the topic "Store management application".
 
-Read this in Vietnamese: [Vietnamese](README.vi.md)
+Read this in [Vietnamese](README.vi.md)
 
 This project involves developing a store management system. This application is designed to provide users with an application that can simply manage their store even if they have little management experience. The application allows users to browse products, staff enter the store, pay and manage invoices flexibly.
 
