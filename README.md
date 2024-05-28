@@ -14,8 +14,7 @@ After cloning the project, just need to do a few procedures:
 
 
 * Installing the setup file `setup.exe`
-* set database > `FPT_Shop_DataBase.sql`
-* > Options: `&hide=stars,commits,prs,issues,contribs`
+* set database `FPT_Shop_DataBase.sql`
 * create `Image` folder in installed folder
 
 
