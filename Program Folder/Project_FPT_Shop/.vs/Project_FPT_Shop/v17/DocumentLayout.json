@@ -1,0 +1,848 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\APP.NET\\Project_FPT_Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|d:\\app.net\\project_fpt_shop\\project_fpt_shop\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|solutionrelative:project_fpt_shop\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|D:\\APP.NET\\Project_FPT_Shop\\project_fpt_shop\\frmdondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|solutionrelative:project_fpt_shop\\frmdondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|D:\\APP.NET\\Project_FPT_Shop\\project_fpt_shop\\frmdondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|solutionrelative:project_fpt_shop\\frmdondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3568C6-8971-4C4F-8625-8703867F2230}|DAL\\DAL.csproj|D:\\APP.NET\\Project_FPT_Shop\\dal\\dal_donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3568C6-8971-4C4F-8625-8703867F2230}|DAL\\DAL.csproj|solutionrelative:dal\\dal_donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|D:\\APP.NET\\Project_FPT_Shop\\project_fpt_shop\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|solutionrelative:project_fpt_shop\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3568C6-8971-4C4F-8625-8703867F2230}|DAL\\DAL.csproj|D:\\APP.NET\\Project_FPT_Shop\\dal\\dal_thuonghieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3568C6-8971-4C4F-8625-8703867F2230}|DAL\\DAL.csproj|solutionrelative:dal\\dal_thuonghieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3568C6-8971-4C4F-8625-8703867F2230}|DAL\\DAL.csproj|D:\\APP.NET\\Project_FPT_Shop\\dal\\dal_phieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3568C6-8971-4C4F-8625-8703867F2230}|DAL\\DAL.csproj|solutionrelative:dal\\dal_phieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|D:\\APP.NET\\Project_FPT_Shop\\project_fpt_shop\\frmchinhanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|solutionrelative:project_fpt_shop\\frmchinhanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|D:\\APP.NET\\Project_FPT_Shop\\project_fpt_shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|solutionrelative:project_fpt_shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|D:\\APP.NET\\Project_FPT_Shop\\project_fpt_shop\\frmthuonghieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|solutionrelative:project_fpt_shop\\frmthuonghieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|D:\\APP.NET\\Project_FPT_Shop\\project_fpt_shop\\frmdanhsachuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|solutionrelative:project_fpt_shop\\frmdanhsachuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|D:\\APP.NET\\Project_FPT_Shop\\project_fpt_shop\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|solutionrelative:project_fpt_shop\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|D:\\APP.NET\\Project_FPT_Shop\\project_fpt_shop\\frmchinhanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|solutionrelative:project_fpt_shop\\frmchinhanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|D:\\APP.NET\\Project_FPT_Shop\\project_fpt_shop\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|solutionrelative:project_fpt_shop\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|D:\\APP.NET\\Project_FPT_Shop\\project_fpt_shop\\frmphieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|solutionrelative:project_fpt_shop\\frmphieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|D:\\APP.NET\\Project_FPT_Shop\\project_fpt_shop\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|solutionrelative:project_fpt_shop\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|D:\\APP.NET\\Project_FPT_Shop\\project_fpt_shop\\frmloaisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|solutionrelative:project_fpt_shop\\frmloaisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|D:\\APP.NET\\Project_FPT_Shop\\project_fpt_shop\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|solutionrelative:project_fpt_shop\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|D:\\APP.NET\\Project_FPT_Shop\\project_fpt_shop\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|solutionrelative:project_fpt_shop\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|GUI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F0A40-2D1B-4947-80B4-07BA60741CBE}|BUS\\BUS.csproj|D:\\APP.NET\\Project_FPT_Shop\\bus\\bll_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F0A40-2D1B-4947-80B4-07BA60741CBE}|BUS\\BUS.csproj|solutionrelative:bus\\bll_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|D:\\APP.NET\\Project_FPT_Shop\\project_fpt_shop\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|solutionrelative:project_fpt_shop\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|D:\\APP.NET\\Project_FPT_Shop\\project_fpt_shop\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|solutionrelative:project_fpt_shop\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3568C6-8971-4C4F-8625-8703867F2230}|DAL\\DAL.csproj|D:\\APP.NET\\Project_FPT_Shop\\dal\\dal_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3568C6-8971-4C4F-8625-8703867F2230}|DAL\\DAL.csproj|solutionrelative:dal\\dal_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3568C6-8971-4C4F-8625-8703867F2230}|DAL\\DAL.csproj|D:\\APP.NET\\Project_FPT_Shop\\dal\\fpt_shop_real_db.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{DF3568C6-8971-4C4F-8625-8703867F2230}|DAL\\DAL.csproj|solutionrelative:dal\\fpt_shop_real_db.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3568C6-8971-4C4F-8625-8703867F2230}|DAL\\DAL.csproj|D:\\APP.NET\\Project_FPT_Shop\\dal\\dal_loaisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3568C6-8971-4C4F-8625-8703867F2230}|DAL\\DAL.csproj|solutionrelative:dal\\dal_loaisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3568C6-8971-4C4F-8625-8703867F2230}|DAL\\DAL.csproj|D:\\APP.NET\\Project_FPT_Shop\\dal\\dal_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3568C6-8971-4C4F-8625-8703867F2230}|DAL\\DAL.csproj|solutionrelative:dal\\dal_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3568C6-8971-4C4F-8625-8703867F2230}|DAL\\DAL.csproj|D:\\APP.NET\\Project_FPT_Shop\\dal\\dal_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3568C6-8971-4C4F-8625-8703867F2230}|DAL\\DAL.csproj|solutionrelative:dal\\dal_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|D:\\APP.NET\\Project_FPT_Shop\\project_fpt_shop\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|solutionrelative:project_fpt_shop\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|D:\\APP.NET\\Project_FPT_Shop\\project_fpt_shop\\frmphieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|solutionrelative:project_fpt_shop\\frmphieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3568C6-8971-4C4F-8625-8703867F2230}|DAL\\DAL.csproj|D:\\APP.NET\\Project_FPT_Shop\\dal\\dal_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3568C6-8971-4C4F-8625-8703867F2230}|DAL\\DAL.csproj|solutionrelative:dal\\dal_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F0A40-2D1B-4947-80B4-07BA60741CBE}|BUS\\BUS.csproj|D:\\APP.NET\\Project_FPT_Shop\\bus\\bll_thuonghieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F0A40-2D1B-4947-80B4-07BA60741CBE}|BUS\\BUS.csproj|solutionrelative:bus\\bll_thuonghieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F0A40-2D1B-4947-80B4-07BA60741CBE}|BUS\\BUS.csproj|D:\\APP.NET\\Project_FPT_Shop\\bus\\bll_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F0A40-2D1B-4947-80B4-07BA60741CBE}|BUS\\BUS.csproj|solutionrelative:bus\\bll_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F0A40-2D1B-4947-80B4-07BA60741CBE}|BUS\\BUS.csproj|D:\\APP.NET\\Project_FPT_Shop\\bus\\bll_phieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F0A40-2D1B-4947-80B4-07BA60741CBE}|BUS\\BUS.csproj|solutionrelative:bus\\bll_phieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F0A40-2D1B-4947-80B4-07BA60741CBE}|BUS\\BUS.csproj|D:\\APP.NET\\Project_FPT_Shop\\bus\\bll_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F0A40-2D1B-4947-80B4-07BA60741CBE}|BUS\\BUS.csproj|solutionrelative:bus\\bll_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F0A40-2D1B-4947-80B4-07BA60741CBE}|BUS\\BUS.csproj|D:\\APP.NET\\Project_FPT_Shop\\bus\\bll_loaisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F0A40-2D1B-4947-80B4-07BA60741CBE}|BUS\\BUS.csproj|solutionrelative:bus\\bll_loaisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F0A40-2D1B-4947-80B4-07BA60741CBE}|BUS\\BUS.csproj|D:\\APP.NET\\Project_FPT_Shop\\bus\\bll_donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F0A40-2D1B-4947-80B4-07BA60741CBE}|BUS\\BUS.csproj|solutionrelative:bus\\bll_donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F0A40-2D1B-4947-80B4-07BA60741CBE}|BUS\\BUS.csproj|D:\\APP.NET\\Project_FPT_Shop\\bus\\bll_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F0A40-2D1B-4947-80B4-07BA60741CBE}|BUS\\BUS.csproj|solutionrelative:bus\\bll_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|D:\\APP.NET\\Project_FPT_Shop\\project_fpt_shop\\frmloaisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|solutionrelative:project_fpt_shop\\frmloaisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F0A40-2D1B-4947-80B4-07BA60741CBE}|BUS\\BUS.csproj|D:\\APP.NET\\Project_FPT_Shop\\bus\\bll_cbb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F0A40-2D1B-4947-80B4-07BA60741CBE}|BUS\\BUS.csproj|solutionrelative:bus\\bll_cbb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F0A40-2D1B-4947-80B4-07BA60741CBE}|BUS\\BUS.csproj|D:\\APP.NET\\Project_FPT_Shop\\bus\\bll_chinhanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F0A40-2D1B-4947-80B4-07BA60741CBE}|BUS\\BUS.csproj|solutionrelative:bus\\bll_chinhanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3568C6-8971-4C4F-8625-8703867F2230}|DAL\\DAL.csproj|D:\\APP.NET\\Project_FPT_Shop\\dal\\dal_chinhanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3568C6-8971-4C4F-8625-8703867F2230}|DAL\\DAL.csproj|solutionrelative:dal\\dal_chinhanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F0A40-2D1B-4947-80B4-07BA60741CBE}|BUS\\BUS.csproj|D:\\APP.NET\\Project_FPT_Shop\\bus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F0A40-2D1B-4947-80B4-07BA60741CBE}|BUS\\BUS.csproj|solutionrelative:bus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3568C6-8971-4C4F-8625-8703867F2230}|DAL\\DAL.csproj|D:\\APP.NET\\Project_FPT_Shop\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DF3568C6-8971-4C4F-8625-8703867F2230}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|D:\\APP.NET\\Project_FPT_Shop\\project_fpt_shop\\frmthuonghieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|solutionrelative:project_fpt_shop\\frmthuonghieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|D:\\APP.NET\\Project_FPT_Shop\\project_fpt_shop\\frmkhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED68055F-18F5-437A-9BD9-B4645217170E}|Project_FPT_Shop\\GUI.csproj|solutionrelative:project_fpt_shop\\frmkhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APP.NET\\Project_FPT_Shop\\DTO\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTO\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APP.NET\\Project_FPT_Shop\\DAL\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APP.NET\\Project_FPT_Shop\\BLL\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APP.NET\\ptojectNgay29\\D\u1EF1 Ph\u00F2ng\\Project_FPT_Shop\\Project_FPT_Shop\\frmVoucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APP.NET\\ptojectNgay29\\D\u1EF1 Ph\u00F2ng\\Project_FPT_Shop\\project_fpt_shop\\frmvoucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APP.NET\\ptojectNgay29\\D\u1EF1 Ph\u00F2ng\\Project_FPT_Shop\\DAL\\DAL_Voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APP.NET\\ptojectNgay29\\D\u1EF1 Ph\u00F2ng\\Project_FPT_Shop\\BUS\\BLL_Voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDonDatHang.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmDonDatHang.cs",
+              "RelativeDocumentMoniker": "Project_FPT_Shop\\frmDonDatHang.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmDonDatHang.cs",
+              "RelativeToolTip": "Project_FPT_Shop\\frmDonDatHang.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAlwNkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:17:38.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmMain.cs",
+              "RelativeDocumentMoniker": "Project_FPT_Shop\\frmMain.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmMain.cs [Design]",
+              "RelativeToolTip": "Project_FPT_Shop\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:22:04.333Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmMain.cs",
+              "RelativeDocumentMoniker": "Project_FPT_Shop\\frmMain.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmMain.cs",
+              "RelativeToolTip": "Project_FPT_Shop\\frmMain.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAASwCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:50:20.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DAL_DonHang.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\DAL\\DAL_DonHang.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_DonHang.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\DAL\\DAL_DonHang.cs",
+              "RelativeToolTip": "DAL\\DAL_DonHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:10:26.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDonDatHang.cs [Design]",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmDonDatHang.cs",
+              "RelativeDocumentMoniker": "Project_FPT_Shop\\frmDonDatHang.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmDonDatHang.cs [Design]",
+              "RelativeToolTip": "Project_FPT_Shop\\frmDonDatHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:12:49.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DAL_ThuongHieu.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\DAL\\DAL_ThuongHieu.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_ThuongHieu.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\DAL\\DAL_ThuongHieu.cs",
+              "RelativeToolTip": "DAL\\DAL_ThuongHieu.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwE8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:52:50.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DAL_PhieuNhapKho.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\DAL\\DAL_PhieuNhapKho.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_PhieuNhapKho.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\DAL\\DAL_PhieuNhapKho.cs",
+              "RelativeToolTip": "DAL\\DAL_PhieuNhapKho.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAA5wDsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:08:26.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmChiNhanh.cs [Design]",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmChiNhanh.cs",
+              "RelativeDocumentMoniker": "Project_FPT_Shop\\frmChiNhanh.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmChiNhanh.cs [Design]",
+              "RelativeToolTip": "Project_FPT_Shop\\frmChiNhanh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:38:42.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "Project_FPT_Shop\\frmDangNhap.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmDangNhap.cs [Design]*",
+              "RelativeToolTip": "Project_FPT_Shop\\frmDangNhap.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:26:26.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\Program.cs",
+              "RelativeDocumentMoniker": "Project_FPT_Shop\\Program.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\Program.cs",
+              "RelativeToolTip": "Project_FPT_Shop\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:09:06.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmThuongHieu.cs [Design]",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmThuongHieu.cs",
+              "RelativeDocumentMoniker": "Project_FPT_Shop\\frmThuongHieu.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmThuongHieu.cs [Design]",
+              "RelativeToolTip": "Project_FPT_Shop\\frmThuongHieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:54:52.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmDanhSachUser.cs [Design]",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmDanhSachUser.cs",
+              "RelativeDocumentMoniker": "Project_FPT_Shop\\frmDanhSachUser.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmDanhSachUser.cs [Design]*",
+              "RelativeToolTip": "Project_FPT_Shop\\frmDanhSachUser.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:55:16.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmChiNhanh.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmChiNhanh.cs",
+              "RelativeDocumentMoniker": "Project_FPT_Shop\\frmChiNhanh.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmChiNhanh.cs",
+              "RelativeToolTip": "Project_FPT_Shop\\frmChiNhanh.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAtwGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:38:43.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmSanPham.cs [Design]",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "Project_FPT_Shop\\frmSanPham.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmSanPham.cs [Design]*",
+              "RelativeToolTip": "Project_FPT_Shop\\frmSanPham.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:04:07.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmPhieuNhapKho.cs [Design]",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmPhieuNhapKho.cs",
+              "RelativeDocumentMoniker": "Project_FPT_Shop\\frmPhieuNhapKho.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmPhieuNhapKho.cs [Design]",
+              "RelativeToolTip": "Project_FPT_Shop\\frmPhieuNhapKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:24:13.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "Project_FPT_Shop\\frmNhanVien.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmNhanVien.cs [Design]*",
+              "RelativeToolTip": "Project_FPT_Shop\\frmNhanVien.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:12:21.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmLoaiSP.cs [Design]",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmLoaiSP.cs",
+              "RelativeDocumentMoniker": "Project_FPT_Shop\\frmLoaiSP.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmLoaiSP.cs [Design]*",
+              "RelativeToolTip": "Project_FPT_Shop\\frmLoaiSP.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:22:03.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "Project_FPT_Shop\\frmKhachHang.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmKhachHang.cs [Design]*",
+              "RelativeToolTip": "Project_FPT_Shop\\frmKhachHang.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:40:47.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmKhachHang.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "Project_FPT_Shop\\frmKhachHang.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmKhachHang.cs*",
+              "RelativeToolTip": "Project_FPT_Shop\\frmKhachHang.cs*",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAYwGEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:23:55.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GUI",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\GUI.csproj",
+              "RelativeDocumentMoniker": "Project_FPT_Shop\\GUI.csproj",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\GUI.csproj",
+              "RelativeToolTip": "Project_FPT_Shop\\GUI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-29T14:02:09.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BLL_DangNhap.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\BUS\\BLL_DangNhap.cs",
+              "RelativeDocumentMoniker": "BUS\\BLL_DangNhap.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\BUS\\BLL_DangNhap.cs",
+              "RelativeToolTip": "BUS\\BLL_DangNhap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:11:47.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "Project_FPT_Shop\\frmDangNhap.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmDangNhap.cs*",
+              "RelativeToolTip": "Project_FPT_Shop\\frmDangNhap.cs*",
+              "ViewState": "AQIAABQAAAAAAAAAAAAowDAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:28:21.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "frmVoucher.cs",
+              "DocumentMoniker": "D:\\APP.NET\\ptojectNgay29\\D\u1EF1 Ph\u00F2ng\\Project_FPT_Shop\\Project_FPT_Shop\\frmVoucher.cs",
+              "RelativeDocumentMoniker": "..\\ptojectNgay29\\D\u1EF1 Ph\u00F2ng\\Project_FPT_Shop\\Project_FPT_Shop\\frmVoucher.cs",
+              "ToolTip": "D:\\APP.NET\\ptojectNgay29\\D\u1EF1 Ph\u00F2ng\\Project_FPT_Shop\\Project_FPT_Shop\\frmVoucher.cs",
+              "RelativeToolTip": "..\\ptojectNgay29\\D\u1EF1 Ph\u00F2ng\\Project_FPT_Shop\\Project_FPT_Shop\\frmVoucher.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T11:53:14.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "frmVoucher.cs [Design]",
+              "DocumentMoniker": "D:\\APP.NET\\ptojectNgay29\\D\u1EF1 Ph\u00F2ng\\Project_FPT_Shop\\Project_FPT_Shop\\frmVoucher.cs",
+              "RelativeDocumentMoniker": "..\\ptojectNgay29\\D\u1EF1 Ph\u00F2ng\\Project_FPT_Shop\\Project_FPT_Shop\\frmVoucher.cs",
+              "ToolTip": "D:\\APP.NET\\ptojectNgay29\\D\u1EF1 Ph\u00F2ng\\Project_FPT_Shop\\Project_FPT_Shop\\frmVoucher.cs [Design]",
+              "RelativeToolTip": "..\\ptojectNgay29\\D\u1EF1 Ph\u00F2ng\\Project_FPT_Shop\\Project_FPT_Shop\\frmVoucher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T11:51:28.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmNhanVien.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "Project_FPT_Shop\\frmNhanVien.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmNhanVien.cs*",
+              "RelativeToolTip": "Project_FPT_Shop\\frmNhanVien.cs*",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAQwHcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:52:25.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DAL_Voucher.cs",
+              "DocumentMoniker": "D:\\APP.NET\\ptojectNgay29\\D\u1EF1 Ph\u00F2ng\\Project_FPT_Shop\\DAL\\DAL_Voucher.cs",
+              "RelativeDocumentMoniker": "..\\ptojectNgay29\\D\u1EF1 Ph\u00F2ng\\Project_FPT_Shop\\DAL\\DAL_Voucher.cs",
+              "ToolTip": "D:\\APP.NET\\ptojectNgay29\\D\u1EF1 Ph\u00F2ng\\Project_FPT_Shop\\DAL\\DAL_Voucher.cs",
+              "RelativeToolTip": "..\\ptojectNgay29\\D\u1EF1 Ph\u00F2ng\\Project_FPT_Shop\\DAL\\DAL_Voucher.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAwwFwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:03:31.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FPT_Shop_Real_db.dbml",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\DAL\\FPT_Shop_Real_db.dbml",
+              "RelativeDocumentMoniker": "DAL\\FPT_Shop_Real_db.dbml",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\DAL\\FPT_Shop_Real_db.dbml",
+              "RelativeToolTip": "DAL\\FPT_Shop_Real_db.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-04-29T12:28:32.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DAL_DangNhap.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\DAL\\DAL_DangNhap.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_DangNhap.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\DAL\\DAL_DangNhap.cs",
+              "RelativeToolTip": "DAL\\DAL_DangNhap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:01:50.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DAL_LoaiSP.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\DAL\\DAL_LoaiSP.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_LoaiSP.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\DAL\\DAL_LoaiSP.cs",
+              "RelativeToolTip": "DAL\\DAL_LoaiSP.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwFQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:09:19.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DAL_KhachHang.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\DAL\\DAL_KhachHang.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_KhachHang.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\DAL\\DAL_KhachHang.cs",
+              "RelativeToolTip": "DAL\\DAL_KhachHang.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAwBsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:10:13.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DAL_SanPham.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\DAL\\DAL_SanPham.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_SanPham.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\DAL\\DAL_SanPham.cs",
+              "RelativeToolTip": "DAL\\DAL_SanPham.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwC0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:03:45.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmSanPham.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "Project_FPT_Shop\\frmSanPham.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmSanPham.cs*",
+              "RelativeToolTip": "Project_FPT_Shop\\frmSanPham.cs*",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAmwIYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:20:31.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmPhieuNhapKho.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmPhieuNhapKho.cs",
+              "RelativeDocumentMoniker": "Project_FPT_Shop\\frmPhieuNhapKho.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmPhieuNhapKho.cs",
+              "RelativeToolTip": "Project_FPT_Shop\\frmPhieuNhapKho.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAswIAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:38:40.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DAL_NhanVien.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\DAL\\DAL_NhanVien.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_NhanVien.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\DAL\\DAL_NhanVien.cs",
+              "RelativeToolTip": "DAL\\DAL_NhanVien.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAiwGAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:45:44.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BLL_Voucher.cs",
+              "DocumentMoniker": "D:\\APP.NET\\ptojectNgay29\\D\u1EF1 Ph\u00F2ng\\Project_FPT_Shop\\BUS\\BLL_Voucher.cs",
+              "RelativeDocumentMoniker": "..\\ptojectNgay29\\D\u1EF1 Ph\u00F2ng\\Project_FPT_Shop\\BUS\\BLL_Voucher.cs",
+              "ToolTip": "D:\\APP.NET\\ptojectNgay29\\D\u1EF1 Ph\u00F2ng\\Project_FPT_Shop\\BUS\\BLL_Voucher.cs",
+              "RelativeToolTip": "..\\ptojectNgay29\\D\u1EF1 Ph\u00F2ng\\Project_FPT_Shop\\BUS\\BLL_Voucher.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:07:59.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BLL_ThuongHieu.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\BUS\\BLL_ThuongHieu.cs",
+              "RelativeDocumentMoniker": "BUS\\BLL_ThuongHieu.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\BUS\\BLL_ThuongHieu.cs",
+              "RelativeToolTip": "BUS\\BLL_ThuongHieu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:35:35.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BLL_NhanVien.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\BUS\\BLL_NhanVien.cs",
+              "RelativeDocumentMoniker": "BUS\\BLL_NhanVien.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\BUS\\BLL_NhanVien.cs",
+              "RelativeToolTip": "BUS\\BLL_NhanVien.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA7wB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:51:22.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BLL_PhieuNhapKho.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\BUS\\BLL_PhieuNhapKho.cs",
+              "RelativeDocumentMoniker": "BUS\\BLL_PhieuNhapKho.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\BUS\\BLL_PhieuNhapKho.cs",
+              "RelativeToolTip": "BUS\\BLL_PhieuNhapKho.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:09:12.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BLL_SanPham.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\BUS\\BLL_SanPham.cs",
+              "RelativeDocumentMoniker": "BUS\\BLL_SanPham.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\BUS\\BLL_SanPham.cs",
+              "RelativeToolTip": "BUS\\BLL_SanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:09:53.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BLL_LoaiSP.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\BUS\\BLL_LoaiSP.cs",
+              "RelativeDocumentMoniker": "BUS\\BLL_LoaiSP.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\BUS\\BLL_LoaiSP.cs",
+              "RelativeToolTip": "BUS\\BLL_LoaiSP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:28:40.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmLoaiSP.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmLoaiSP.cs",
+              "RelativeDocumentMoniker": "Project_FPT_Shop\\frmLoaiSP.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmLoaiSP.cs*",
+              "RelativeToolTip": "Project_FPT_Shop\\frmLoaiSP.cs*",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAqwGEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:31:36.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BLL_DonHang.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\BUS\\BLL_DonHang.cs",
+              "RelativeDocumentMoniker": "BUS\\BLL_DonHang.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\BUS\\BLL_DonHang.cs",
+              "RelativeToolTip": "BUS\\BLL_DonHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:38:41.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BLL_KhachHang.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\BUS\\BLL_KhachHang.cs",
+              "RelativeDocumentMoniker": "BUS\\BLL_KhachHang.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\BUS\\BLL_KhachHang.cs",
+              "RelativeToolTip": "BUS\\BLL_KhachHang.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:13:38.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BLL_ChiNhanh.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\BUS\\BLL_ChiNhanh.cs",
+              "RelativeDocumentMoniker": "BUS\\BLL_ChiNhanh.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\BUS\\BLL_ChiNhanh.cs",
+              "RelativeToolTip": "BUS\\BLL_ChiNhanh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:35:54.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BLL_Cbb.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\BUS\\BLL_Cbb.cs",
+              "RelativeDocumentMoniker": "BUS\\BLL_Cbb.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\BUS\\BLL_Cbb.cs",
+              "RelativeToolTip": "BUS\\BLL_Cbb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:35:37.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DAL_ChiNhanh.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\DAL\\DAL_ChiNhanh.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_ChiNhanh.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\DAL\\DAL_ChiNhanh.cs",
+              "RelativeToolTip": "DAL\\DAL_ChiNhanh.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:30:58.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\BUS\\Form1.cs",
+              "RelativeDocumentMoniker": "BUS\\Form1.cs",
+              "ToolTip": "D:\\APP.NET\\ptojectNgay29\\D\u1EF1 Ph\u00F2ng\\Project_FPT_Shop\\BUS\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\ptojectNgay29\\D\u1EF1 Ph\u00F2ng\\Project_FPT_Shop\\BUS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:06:42.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "app.config",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\DAL\\app.config",
+              "RelativeDocumentMoniker": "DAL\\app.config",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\DAL\\app.config",
+              "RelativeToolTip": "DAL\\app.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-27T10:17:42.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmThuongHieu.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmThuongHieu.cs",
+              "RelativeDocumentMoniker": "Project_FPT_Shop\\frmThuongHieu.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmThuongHieu.cs",
+              "RelativeToolTip": "Project_FPT_Shop\\frmThuongHieu.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAEwI8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:54:15.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmKhachHang.Designer.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmKhachHang.Designer.cs",
+              "RelativeDocumentMoniker": "Project_FPT_Shop\\frmKhachHang.Designer.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\Project_FPT_Shop\\frmKhachHang.Designer.cs*",
+              "RelativeToolTip": "Project_FPT_Shop\\frmKhachHang.Designer.cs*",
+              "ViewState": "AQIAALQAAAAAAAAAAAAWwMEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:27:01.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\DTO\\Class1.cs",
+              "RelativeDocumentMoniker": "DTO\\Class1.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\DTO\\Class1.cs",
+              "RelativeToolTip": "DTO\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:56:25.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:56:45.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\APP.NET\\Project_FPT_Shop\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "D:\\APP.NET\\Project_FPT_Shop\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:56:34.697Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

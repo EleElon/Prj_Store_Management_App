@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 15" name="FPT_Shop_Real_db">
+  <DataContextMoniker Name="/FPT_Shop_Real_dbDataContext" />
+  <nestedChildShapes>
+    <classShape Id="a02c2c5c-a1a4-4a5f-a0dd-0e3a21b73334" absoluteBounds="3.75, 6.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/FPT_Shop_Real_dbDataContext/ChiNhanh" />
+      <nestedChildShapes>
+        <elementListCompartment Id="984fa9b3-8ca1-4e43-85cb-4a3d90e2ff17" absoluteBounds="3.765, 6.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a04d0c66-8bf7-4c28-9282-332e8cd162f9" absoluteBounds="1, 13.375, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/FPT_Shop_Real_dbDataContext/ThuongHieu" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6c02ade7-df0e-4ba2-9aef-95fb8e63c103" absoluteBounds="1.0150000000000001, 13.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="73c9db2a-96a2-4eb0-96ea-3f82e079ca4d" absoluteBounds="0.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/FPT_Shop_Real_dbDataContext/DangNhap" />
+      <nestedChildShapes>
+        <elementListCompartment Id="59be82bf-f980-4828-9fa5-61849a9c4027" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="acb5eb53-dca4-4e63-869d-e0a3716f1fec" absoluteBounds="6.5, 2.5, 2, 3.1170068359375005">
+      <DataClassMoniker Name="/FPT_Shop_Real_dbDataContext/DonHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="612c57b5-6a12-489e-ae3c-9f85a7fca82f" absoluteBounds="6.515, 2.96, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9c886646-16f3-4d88-9eef-9060262572ce" absoluteBounds="3.75, 8.75, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/FPT_Shop_Real_dbDataContext/KhachHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a816b0fc-0123-452d-90a2-08a8d95a05bb" absoluteBounds="3.765, 9.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="29058ae0-ed72-4d06-bc99-5ebe05da1207" absoluteBounds="1, 11.25, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/FPT_Shop_Real_dbDataContext/LoaiSP" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2ee18b6e-c9ce-48c3-b1cf-053e01185e35" absoluteBounds="1.0150000000000001, 11.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="095d604f-f735-43ca-b98f-c1d070aa374e" absoluteBounds="0.75, 3, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/FPT_Shop_Real_dbDataContext/NhanVien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="61b9ea14-f5d1-48f5-9715-4a321ffcf933" absoluteBounds="0.765, 3.46, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="23298bae-fd44-4731-a335-c239fb17f536" absoluteBounds="3.5, 3, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/FPT_Shop_Real_dbDataContext/PhieuNhapKho" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4141da51-2bd2-4202-a1a8-89ad5449139b" absoluteBounds="3.515, 3.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="64275b89-fa40-4f2a-b36c-7911d37c9427" absoluteBounds="3.75, 11.75, 2, 2.5401025390624987">
+      <DataClassMoniker Name="/FPT_Shop_Real_dbDataContext/SanPham" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f9077f25-92e3-4298-9c14-ba886cbebd28" absoluteBounds="3.765, 12.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.65625 : 6.375); (5.65625 : 5.3213525390625); (6.5 : 5.3213525390625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/FPT_Shop_Real_dbDataContext/ChiNhanh/ChiNhanh_DonHang" />
+      <nodes>
+        <classShapeMoniker Id="a02c2c5c-a1a4-4a5f-a0dd-0e3a21b73334" />
+        <classShapeMoniker Id="acb5eb53-dca4-4e63-869d-e0a3716f1fec" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 9.63544840494792); (6.88541416666667 : 9.63544840494792 : JumpStart); (7.05208083333333 : 9.63544840494792 : JumpEnd); (7.5 : 9.63544840494792); (7.5 : 5.6170068359375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/FPT_Shop_Real_dbDataContext/KhachHang/KhachHang_DonHang" />
+      <nodes>
+        <classShapeMoniker Id="9c886646-16f3-4d88-9eef-9060262572ce" />
+        <classShapeMoniker Id="acb5eb53-dca4-4e63-869d-e0a3716f1fec" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 5.09059895833333); (6.5 : 5.09059895833333)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/FPT_Shop_Real_dbDataContext/NhanVien/NhanVien_DonHang" />
+      <nodes>
+        <classShapeMoniker Id="095d604f-f735-43ca-b98f-c1d070aa374e" />
+        <classShapeMoniker Id="acb5eb53-dca4-4e63-869d-e0a3716f1fec" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 3.98159912109375); (3.5 : 3.98159912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/FPT_Shop_Real_dbDataContext/NhanVien/NhanVien_PhieuNhapKho" />
+      <nodes>
+        <classShapeMoniker Id="095d604f-f735-43ca-b98f-c1d070aa374e" />
+        <classShapeMoniker Id="23298bae-fd44-4731-a335-c239fb17f536" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 13.0200512695312); (6.9687475 : 13.0200512695312); (6.9687475 : 5.6170068359375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/FPT_Shop_Real_dbDataContext/SanPham/SanPham_DonHang" />
+      <nodes>
+        <classShapeMoniker Id="64275b89-fa40-4f2a-b36c-7911d37c9427" />
+        <classShapeMoniker Id="acb5eb53-dca4-4e63-869d-e0a3716f1fec" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3 : 12.1931469726562); (3.75 : 12.1931469726562)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/FPT_Shop_Real_dbDataContext/LoaiSP/LoaiSP_SanPham" />
+      <nodes>
+        <classShapeMoniker Id="29058ae0-ed72-4d06-bc99-5ebe05da1207" />
+        <classShapeMoniker Id="64275b89-fa40-4f2a-b36c-7911d37c9427" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3 : 13.8325512695312); (3.75 : 13.8325512695312)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/FPT_Shop_Real_dbDataContext/ThuongHieu/ThuongHieu_SanPham" />
+      <nodes>
+        <classShapeMoniker Id="a04d0c66-8bf7-4c28-9282-332e8cd162f9" />
+        <classShapeMoniker Id="64275b89-fa40-4f2a-b36c-7911d37c9427" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

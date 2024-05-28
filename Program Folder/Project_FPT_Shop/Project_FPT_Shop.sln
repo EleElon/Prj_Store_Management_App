@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "Project_FPT_Shop\GUI.csproj", "{ED68055F-18F5-437A-9BD9-B4645217170E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{9482D470-36DB-43D8-A5FE-D03489239665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{DF3568C6-8971-4C4F-8625-8703867F2230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS", "BUS\BUS.csproj", "{E13F0A40-2D1B-4947-80B4-07BA60741CBE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B2B412C2-0A0E-464B-9F89-DAFD6C663E23}"
+	ProjectSection(SolutionItems) = preProject
+		Image\Oxygen-Icons.org-Oxygen-Actions-edit-delete.256.png = Image\Oxygen-Icons.org-Oxygen-Actions-edit-delete.256.png
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FPT Shop", "FPT Shop\FPT Shop.vdproj", "{A40DDDBB-A465-4214-AD2C-3F58F2904F7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED68055F-18F5-437A-9BD9-B4645217170E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED68055F-18F5-437A-9BD9-B4645217170E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED68055F-18F5-437A-9BD9-B4645217170E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED68055F-18F5-437A-9BD9-B4645217170E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9482D470-36DB-43D8-A5FE-D03489239665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9482D470-36DB-43D8-A5FE-D03489239665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9482D470-36DB-43D8-A5FE-D03489239665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9482D470-36DB-43D8-A5FE-D03489239665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF3568C6-8971-4C4F-8625-8703867F2230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3568C6-8971-4C4F-8625-8703867F2230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3568C6-8971-4C4F-8625-8703867F2230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3568C6-8971-4C4F-8625-8703867F2230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E13F0A40-2D1B-4947-80B4-07BA60741CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E13F0A40-2D1B-4947-80B4-07BA60741CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E13F0A40-2D1B-4947-80B4-07BA60741CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E13F0A40-2D1B-4947-80B4-07BA60741CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A40DDDBB-A465-4214-AD2C-3F58F2904F7B}.Debug|Any CPU.ActiveCfg = Debug
+		{A40DDDBB-A465-4214-AD2C-3F58F2904F7B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2CD32D1-9141-496F-9059-EC7101A76EF4}
+	EndGlobalSection
+EndGlobal
