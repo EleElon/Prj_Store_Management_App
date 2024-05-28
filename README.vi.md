@@ -12,10 +12,10 @@ Dự án này liên quan đến việc phát triển một hệ thống quản l
 
 Sau khi nhân bản dự án, chỉ cần thực hiện một số thủ tục:
 
-```
-1. Cài đặt file setup.exe
-2. Thiết lập cơ sở dữ liệu FPT_Shop_DataBase.sql
-3. Tạo 1 thư mục tên "Image" trong thư mục "FPT Shop"
-```
+
+* Cài đặt file setup.exe
+* Thiết lập cơ sở dữ liệu FPT_Shop_DataBase.sql
+* Tạo 1 thư mục tên "Image" trong thư mục "FPT Shop"
+
 
 Trải nghiệm ứng dụng
