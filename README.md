@@ -12,10 +12,10 @@ This project involves developing a store management system. This application is 
 
 After cloning the project, just need to do a few procedures:
 
-```
-1. Installing the setup file setup.exe
-2. set database FPT_Shop_DataBase.sql
-3. create "Image" folder in "FPT Shop" folder
-```
+
+* Installing the setup file setup.exe
+* set database FPT_Shop_DataBase.sql
+* create "Image" folder in "FPT Shop" folder
+
 
 Enjoys the application
