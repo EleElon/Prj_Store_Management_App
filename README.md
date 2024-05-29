@@ -8,6 +8,12 @@ This project involves developing a store management system. This application is 
 
 **_Note: Still in development_**
 
+## Members
+
+Le Nguyen Tien Phu `Leader`
+
+Nguyen Van Than
+
 ## Configuration
 
 After cloning the project, just need to do a few procedures:
