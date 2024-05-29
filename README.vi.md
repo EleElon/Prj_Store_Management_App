@@ -8,6 +8,12 @@ Dự án này liên quan đến việc phát triển một hệ thống quản l
 
 **_Lưu ý: Vẫn đang được phát triển_**
 
+## Các thành viên
+
+Lê Nguyễn Tiến Phú `Leader`
+
+Nguyễn Văn Thân
+
 ## Cấu hình
 
 Sau khi nhân bản dự án, chỉ cần thực hiện một số thủ tục:
